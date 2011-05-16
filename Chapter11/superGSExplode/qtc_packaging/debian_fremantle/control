@@ -1,0 +1,13 @@
+Source: supergsculling
+Section: user/hidden
+Priority: optional
+Maintainer: eoin <eoin@unknown>
+Build-Depends: debhelper (>= 5), libqt4-dev
+Standards-Version: 3.7.3
+Homepage: <insert the upstream URL, if relevant>
+
+Package: supergsculling
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
