@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/43/trunk/VisualStudio2008/OpenEXR/lib
+END
+Half.lib
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/43/trunk/VisualStudio2008/OpenEXR/lib/Half.lib
+END
+IlmImf.lib
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/43/trunk/VisualStudio2008/OpenEXR/lib/IlmImf.lib
+END
+zlib.lib
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/43/trunk/VisualStudio2008/OpenEXR/lib/zlib.lib
+END
+Imath.lib
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/43/trunk/VisualStudio2008/OpenEXR/lib/Imath.lib
+END
+Iex.lib
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/43/trunk/VisualStudio2008/OpenEXR/lib/Iex.lib
+END
+IlmThread.lib
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/43/trunk/VisualStudio2008/OpenEXR/lib/IlmThread.lib
+END
