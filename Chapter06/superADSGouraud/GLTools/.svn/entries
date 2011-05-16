@@ -1,0 +1,34 @@
+9
+
+dir
+189
+http://oglsuperbible5.googlecode.com/svn/trunk/Src/GLTools
+http://oglsuperbible5.googlecode.com/svn
+
+
+
+2011-01-19T17:55:01.250962Z
+189
+rwright@starstonesoftware.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+36620312-f518-11de-9bdd-55956ae4c37b
+
+include
+dir
+
+src
+dir
+
